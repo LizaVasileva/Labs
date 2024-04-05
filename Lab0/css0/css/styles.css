@@ -1,0 +1,200 @@
+.div1{
+    width: 100%;
+}
+.top{
+    display: flex;
+    width: 100%;
+    height: 72px;
+    text-align: center;
+    background-size: 100%;
+}
+.logo{
+    flex: 1;
+    width: 115px;
+    height: 24px;
+}
+.menu{
+    flex: 1;
+    width: 261px;
+    height: 24px;
+}
+.web{
+    margin-left: 30%;
+    font-family: second-family;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    }
+.studio{
+    font-family: second-family;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+.menutext{
+    font-family: font-family;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    text-indent: 10%;
+}
+.info{
+    flex: 1;/
+    font-family: font-family;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+.hero{
+    width: 100%;
+    height: 600px;
+    background: #2E2F42;
+    background-size: 100%;
+}
+.Effective{
+    font-family: font-family;
+font-weight: 700;
+font-size: 56px;
+line-height: 107%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+
+}
+.button{
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4D5AE5;
+font-family: font-family;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+}
+.sec1{
+    display: flex;
+    width: 100%
+    height: 104px;
+    margin-top: 40px;
+}
+.feature{
+    width: 264px;
+height: 104px;
+}
+.titlef{
+    font-family: font-family;
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.textf{
+    font-family: font-family;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.sec2{
+    display: flex;
+width: 100%
+height: 732px;
+background: #F4F4FD;
+margin-top: 40px;
+}
+.our{
+    flex: 1;
+    font-family: font-family;
+font-weight: 700;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2E2F42;
+}
+.card{
+    flex: 1;
+border-radius: 0 0 4px 4px;
+padding: 0px 0px 32px 0px;
+width: 264px;
+height: 380px;
+box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+background: #FFFFFF;
+margin-top: 40px;
+}
+.img{
+    width: 264px;
+height: 260px;
+}
+.namec{
+    font-family: font-family;
+font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
+.infoc{
+    font-family: font-family;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+.footer{
+    width: 100%
+height: 500px;
+background: #2E2F42;
+margin-top: 40px;
+}
+.footertext{
+    width: 264px;
+height: 112px;
+}
+.webf{
+    font-family: second-family;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.studiof{
+    font-family: second-family;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;
+}
+.textfoo{
+    font-family: font-family;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
