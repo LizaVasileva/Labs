@@ -3,68 +3,68 @@
 }
 .top{
     display: flex;
-    width: 100%;
-    height: 5rem;
-    text-align: center;
-    background-size: 100%;
-    position: fixed;
-    flex: 0;
-    background-color: #FFFFFF;
-    margin-top: 0;
+width: 100%;
+height: 5rem;
+text-align: center;
+background-size: 100%;
+position: fixed;
+flex: 0;
+background-color: #FFFFFF;
+margin-top: 0;
 }
 .logo{
     flex: 1;
-    width: 115px;
-    height: 24px;
+width: 115px;
+height: 24px;
 }
 .menu{
     width: 261px;
-    height: 20px;
+height: 20px;
 }
 .web{
     margin-left: 30%;
-    font-family: second-family;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;
-    }
+font-family: second-family;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
 .studio{
     font-family: second-family;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2E2F42;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
 }
 .menutext{
     font-family: font-family;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    text-indent: 10%;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #2E2F42;
+text-indent: 10%;
 }
 .info{
     flex: 1;
-    font-family: font-family;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
+font-family: font-family;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 
 }
 .hero{
     width: 100%;
-    height: 600px;
-    background: #2E2F42;
-    background-size: 100%;
-    text-align: center;
+height: 600px;
+background: #2E2F42;
+background-size: 100%;
+text-align: center;
 }
 .Effective{
     font-family: font-family;
@@ -92,10 +92,10 @@ text-align: center;
 }
 .sec1{
     display: flex;
-    width: 90%;
-    height: 104px;
-    margin-top: 30px;
-    margin-left: 25rem;
+width: 90%;
+height: 104px;
+margin-top: 30px;
+margin-left: 25rem;
 }
 .feature{
     width: 264px;
@@ -182,12 +182,12 @@ margin-bottom: 5rem;
 }
 .webf{
     font-family: second-family;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4D5AE5;
+font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
 }
 .studiof{
     font-family: second-family;
